@@ -6,6 +6,11 @@ The tracking quality is evaluated in this repo.
 
 Theoretically, the desired inputs are the tracking error, its derivative, and its second derivative, from Simulink in the secrete project.
 
+
+![image](https://github.com/user-attachments/assets/ca8591cb-89e8-4799-9c8f-59d805c17920)
+
+Evaluation:
+
 ![image](https://github.com/user-attachments/assets/2b1554e0-c80c-4850-814b-0b4b4c1d936c)
 
 
@@ -31,3 +36,4 @@ ans =
 
     0.0018
     0.2628
+
