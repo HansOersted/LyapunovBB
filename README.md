@@ -1,4 +1,4 @@
-# LyapunovBB
+# Lyapunov Evaluator 
 
 This repo is designed for a secrete project.
 
